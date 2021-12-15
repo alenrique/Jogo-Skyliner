@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1616001206 source:c:\users\henrique alencar\onedrive\documentos\skyliner\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1615512738 c:\users\henrique alencar\onedrive\documentos\skyliner\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1616424277 source:c:\users\henrique alencar\onedrive\documentos\skyliner\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"jogo.h"
+
+1615755977 c:\users\henrique alencar\onedrive\documentos\skyliner\pilha.h
+
+1615815663 source:c:\users\henrique alencar\onedrive\documentos\skyliner\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1616460495 source:c:\users\henrique alencar\onedrive\documentos\skyliner\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"jogo.h"
+	"lista.h"
+	"pilha.h"
+
+1616426013 c:\users\henrique alencar\onedrive\documentos\skyliner\jogo.h
+
+1616001206 source:c:\users\henrique alencar\onedrive\documentos\projeto henrique alencar\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1615512738 c:\users\henrique alencar\onedrive\documentos\projeto henrique alencar\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1616424277 source:c:\users\henrique alencar\onedrive\documentos\projeto henrique alencar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"jogo.h"
+
+1615755977 c:\users\henrique alencar\onedrive\documentos\projeto henrique alencar\pilha.h
+
+1616426013 c:\users\henrique alencar\onedrive\documentos\projeto henrique alencar\jogo.h
+
+1615815663 source:c:\users\henrique alencar\onedrive\documentos\projeto henrique alencar\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1617735456 source:c:\users\henrique alencar\onedrive\documentos\projeto henrique alencar\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"jogo.h"
+	"lista.h"
+	"pilha.h"
+
